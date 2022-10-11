@@ -1,0 +1,8 @@
+div h2 {
+    font: italic;
+}
+
+h2+p {
+    color: red;
+}
+
